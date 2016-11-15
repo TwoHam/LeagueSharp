@@ -469,7 +469,6 @@ namespace Viktor.Champions
 
         private static void UberMode()
         {
-            Orbwalking.MoveTo(Game.CursorPos);
             if (!spells[Spells.Q].IsReady() 
                 || !(Utilities.Player.HasBuff("viktorqaug") 
                 || Utilities.Player.HasBuff("viktorqeaug") 

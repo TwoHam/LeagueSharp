@@ -34,16 +34,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="LeagueSharp">
-      <HintPath>C:\Program Files (x86)\Play Sharp\References\LeagueSharp.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\r6NeAwgXZ\References\LeagueSharp.dll</HintPath>
     </Reference>
     <Reference Include="LeagueSharp.Common">
-      <HintPath>C:\Program Files (x86)\Play Sharp\References\LeagueSharp.Common.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\r6NeAwgXZ\References\LeagueSharp.Common.dll</HintPath>
     </Reference>
     <Reference Include="SebbyLib">
       <HintPath>C:\Program Files (x86)\Play Sharp\References\SebbyLib.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX">
-      <HintPath>C:\Program Files (x86)\Play Sharp\References\SharpDX.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\r6NeAwgXZ\References\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="SPrediction">
       <HintPath>C:\Program Files (x86)\Play Sharp\References\SPrediction.dll</HintPath>
